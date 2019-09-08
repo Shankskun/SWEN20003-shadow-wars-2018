@@ -1,7 +1,7 @@
-## swen20003-shadow-wars-2018
+## SWEN20003-shadow-wars-2018
 
 Shadow wasrs is a game where you have to fight off alien invaders and defeat the boss towards the end of the game. Similar to the classic **Space Invaders**
-University Project for the subject **SWEN20003 Object Oriented Software Developement**, written in Java
+University Project for the subject **SWEN20003 Object Oriented Software Developement**, written in Java.
 
 **Game Design by**: Eleanor McMurtry (http://github.com/noneuclideangirl)
 
