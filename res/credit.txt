@@ -1,0 +1,5 @@
+ARTISTS
+--
+Blarget2:   https://opengameart.org/content/space-shooter-sprites
+Kenney.nl:  https://opengameart.org/content/space-shooter-art
+Jerom:		https://opengameart.org/content/retro-shmup-boss-2
