@@ -5,6 +5,8 @@ University Project for the subject **SWEN20003 Object Oriented Software Develope
 
 **Game Design by**: Eleanor McMurtry (http://github.com/noneuclideangirl)
 
+---
+
 ### How to play
 
 #### Controls
